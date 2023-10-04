@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ContactForm7 Bitrix24 Lead Generation\n"
+"POT-Creation-Date: 2017-09-01 14:44+0300\n"
+"PO-Revision-Date: 2017-09-01 14:52+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+
+#: admin/CF7.php:77
+msgid "Integration with Bitrix24"
+msgstr ""
+
+#: admin/CF7.php:143 admin/CF7.php:149 admin/CF7.php:156 admin/CF7.php:162
+msgid "ERROR"
+msgstr ""
+
+#: admin/CF7.php:144
+msgid "Web hook url is not valid."
+msgstr ""
+
+#: admin/CF7.php:150
+msgid "To integrate with Bitrix24, your must fill in all fields."
+msgstr ""
+
+#: admin/CF7.php:157
+msgid "Insufficient permissions. Check CRM settings."
+msgstr ""
+
+#: admin/CF7.php:163
+msgid "Response CRM is not valid. Please check web hook link."
+msgstr ""
+
+#: admin/CF7.php:168
+msgid "Settings successfully updated."
+msgstr ""
+
+#: admin/CF7.php:180
+msgid ""
+"Formation of leads in Bitrix24 from the hits that users leave on your site, "
+"using the Contact Form 7 plugin."
+msgstr ""
+
+#: admin/CF7.php:196 admin/CF7.php:246
+msgid "Inbound web hook"
+msgstr ""
+
+#: admin/CF7.php:214
+msgid "The following permissions are required: CRM, Tasks, Tasks extended."
+msgstr ""
+
+#: admin/CF7.php:226
+msgid "Plugin documentation: "
+msgstr ""
+
+#: admin/CF7.php:228
+msgid "open"
+msgstr ""
+
+#: admin/CF7.php:229
+msgid "Or open the folder `documentation` in the plugin and open index.html"
+msgstr ""
+
+#: admin/CF7.php:235
+msgid "Save settings"
+msgstr ""
+
+#: admin/CF7.php:254
+msgid "Change settings"
+msgstr ""
+
+#: admin/CF7.php:263
+msgid "To work with the plugin, you must configure integration with Bitrix24."
+msgstr ""
+
+#: admin/CF7.php:271
+msgid "Go to setup"
+msgstr ""
+
+#: admin/CF7.php:277
+msgid ""
+"The fields sent to the CRM are configured on the form editing page, on the "
+"\"Bitrix24\" tab."
+msgstr ""
+
+#: admin/CF7.php:290
+msgid "Bitrix24"
+msgstr ""
+
+#: admin/CF7.php:312 admin/CF7.php:317
+msgid "Enable send the lead"
+msgstr ""
+
+#: admin/CF7.php:340
+msgid "Choose the type of lead that will be generated in CRM:"
+msgstr ""
+
+#: admin/CF7.php:350 admin/CF7.php:351
+msgid "Lead"
+msgstr ""
+
+#: admin/CF7.php:358
+msgid "Deal"
+msgstr ""
+
+#: admin/CF7.php:361
+msgid ""
+"Deal (Auto create/connect existing contact and company. Search contact and "
+"company by phone and email.)"
+msgstr ""
+
+#: admin/CF7.php:371
+msgid "Task"
+msgstr ""
+
+#: admin/CF7.php:374
+msgid ""
+"Task (Auto create/connect existing contact and company. Search contact and "
+"company by phone and email.)"
+msgstr ""
+
+#: admin/CF7.php:384 admin/CF7.php:385
+msgid "Contact"
+msgstr ""
+
+#: admin/CF7.php:392 admin/CF7.php:394
+msgid "Company"
+msgstr ""
+
+#: admin/CF7.php:402
+msgid "Lead fields"
+msgstr ""
+
+#: admin/CF7.php:407
+msgid "Deal fields"
+msgstr ""
+
+#: admin/CF7.php:412
+msgid "Task fields"
+msgstr ""
+
+#: admin/CF7.php:417
+msgid "Contact fields"
+msgstr ""
+
+#: admin/CF7.php:422
+msgid "Company fields"
+msgstr ""
+
+#: admin/RenderFields.php:21 admin/RenderFields.php:44
+msgid "Not chosen"
+msgstr ""
+
+#: includes/Bootstrap.php:56
+msgid ""
+"To run the plug-in, you must first install and activate the Contact Form 7 "
+"plugin."
+msgstr ""
+
+#: includes/Bootstrap.php:60
+msgid "Error while activating the Contact Form 7 - Bitrix24 - Lead Generation"
+msgstr ""
+
+#: includes/CrmFields.php:89
+msgid "Street, building"
+msgstr ""
+
+#: includes/CrmFields.php:90
+msgid "Suite / Apartment"
+msgstr ""
+
+#: includes/CrmFields.php:91
+msgid "City"
+msgstr ""
+
+#: includes/CrmFields.php:92
+msgid "Zip"
+msgstr ""
+
+#: includes/CrmFields.php:93
+msgid "Region"
+msgstr ""
+
+#: includes/CrmFields.php:94
+msgid "State / Province"
+msgstr ""
+
+#: includes/CrmFields.php:95
+msgid "Country"
+msgstr ""
+
+#: includes/CrmFields.php:96
+msgid "Birth date"
+msgstr ""
+
+#: includes/CrmFields.php:97
+msgid "Payment details"
+msgstr ""
+
+#: includes/CrmFields.php:98
+msgid "Industry"
+msgstr ""
+
+#: includes/CrmFields.php:99
+msgid "Employees"
+msgstr ""
+
+#: includes/CrmFields.php:100
+msgid "Annual income"
+msgstr ""
+
+#: includes/CrmFields.php:101
+msgid "Company Name"
+msgstr ""
+
+#: includes/CrmFields.php:102
+msgid "Company type"
+msgstr ""
+
+#: includes/CrmFields.php:103
+msgid "Visible to everyone"
+msgstr ""
+
+#: includes/CrmFields.php:104
+msgid "Title"
+msgstr ""
+
+#: includes/CrmFields.php:105
+msgid "Type"
+msgstr ""
+
+#: includes/CrmFields.php:106
+msgid "Stage"
+msgstr ""
+
+#: includes/CrmFields.php:107
+msgid "Probability, %"
+msgstr ""
+
+#: includes/CrmFields.php:108
+msgid "First name"
+msgstr ""
+
+#: includes/CrmFields.php:109
+msgid "Last name"
+msgstr ""
+
+#: includes/CrmFields.php:110
+msgid "Middle name"
+msgstr ""
+
+#: includes/CrmFields.php:111
+msgid "Position"
+msgstr ""
+
+#: includes/CrmFields.php:112
+msgid "Responsible user ID"
+msgstr ""
+
+#: includes/CrmFields.php:113
+msgid "Comments"
+msgstr ""
+
+#: includes/CrmFields.php:114
+msgid "Description"
+msgstr ""
+
+#: includes/CrmFields.php:115
+msgid "Source Description"
+msgstr ""
+
+#: includes/CrmFields.php:116
+msgid "Status description"
+msgstr ""
+
+#: includes/CrmFields.php:117
+msgid "Opportunity"
+msgstr ""
+
+#: includes/CrmFields.php:118
+msgid "Currency"
+msgstr ""
+
+#: includes/CrmFields.php:119
+msgid "Product ID from CRM"
+msgstr ""
+
+#: includes/CrmFields.php:120
+msgid "Source"
+msgstr ""
+
+#: includes/CrmFields.php:121
+msgid "Status"
+msgstr ""
+
+#: includes/CrmFields.php:122
+msgid "Phone"
+msgstr ""
+
+#: includes/CrmFields.php:123
+msgid "E-mail"
+msgstr ""
+
+#: includes/CrmFields.php:124
+msgid "Site"
+msgstr ""
+
+#: includes/CrmFields.php:125
+msgid "Tags"
+msgstr ""
+
+#: includes/CrmFields.php:126
+msgid "Deadline (use the date field type)"
+msgstr ""
+
+#: includes/CrmFields.php:127
+msgid "Responsible person can change deadline"
+msgstr ""
+
+#: includes/CrmFields.php:128
+msgid "Approve task when completed"
+msgstr ""
+
+#: includes/CrmFields.php:129
+msgid "Task planned time"
+msgstr ""
+
+#: includes/CrmFields.php:130
+msgid "Responsible"
+msgstr ""

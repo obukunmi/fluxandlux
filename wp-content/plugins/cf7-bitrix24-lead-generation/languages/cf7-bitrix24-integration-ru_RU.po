@@ -1,0 +1,597 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ContactForm7Bitrix24\n"
+"POT-Creation-Date: 2022-05-02 12:53+0300\n"
+"PO-Revision-Date: 2022-05-02 12:53+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_html_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: admin\n"
+"X-Poedit-SearchPath-2: cf7-bitrix24-lead-generation.php\n"
+
+#: admin/AjaxActions/LogAjaxAction.php:59
+msgid "Logging enabled successfully"
+msgstr "Логирование успешно включено"
+
+#: admin/AjaxActions/LogAjaxAction.php:60
+msgid "Logging disabled successfully"
+msgstr "Логирование успешно выключено"
+
+#: admin/FormSettings.php:109 admin/IntegrationSettingsPage.php:62
+#: admin/IntegrationSettingsPage.php:63
+msgid "Bitrix24"
+msgstr ""
+
+#: admin/FormSettings.php:125
+msgid "Export settings"
+msgstr "Экспорт настроек"
+
+#: admin/FormSettings.php:130
+msgid "Import settings (from file)"
+msgstr "Импорт настроек (из файла)"
+
+#: admin/FormSettings.php:140 admin/FormSettings.php:141
+msgid "Enable send the lead"
+msgstr "Включить отправку лида"
+
+#: admin/FormSettings.php:143
+msgid "In the following fields, you can use these mail-tags:"
+msgstr ""
+
+#: admin/FormSettings.php:171
+msgid "Choose the type of lead that will be generated in CRM:"
+msgstr "Выберите тип лида который будет формироваться в CRM:"
+
+#: admin/FormSettings.php:178 admin/FormSettings.php:179
+msgid "Lead"
+msgstr "Лид"
+
+#: admin/FormSettings.php:182
+msgid "Used tabs: Lead fields - main, Task fields - additional."
+msgstr ""
+"Используются вкладки: Поля лида - основная, Поля задачи - дополнительно."
+
+#: admin/FormSettings.php:190
+msgid "Deal"
+msgstr "Сделка"
+
+#: admin/FormSettings.php:192
+msgid ""
+"Deal (Auto create/connect existing contact and company. Search contact and "
+"company by phone and email.)"
+msgstr ""
+"Сделка (Автоматическое создание / привязка существующего контакта и "
+"компании. Поиск контакта / компании по телефону / почте.)"
+
+#: admin/FormSettings.php:195
+msgid ""
+"Used tabs: Deal fields - main, Contact fields, Company fields, Task fields - "
+"additional."
+msgstr ""
+"Используются вкладки: Поля сделки - основная, Поля контакта, Поля компании, "
+"Поля задачи - дополнительно."
+
+#: admin/FormSettings.php:203
+msgid "Task"
+msgstr "Задача"
+
+#: admin/FormSettings.php:205
+msgid ""
+"Task (Auto create/connect existing contact and company. Search contact and "
+"company by phone and email.)"
+msgstr ""
+"Задача (Автоматическое создание / привязка существующего контакта и "
+"компании. Поиск контакта / компании по телефону / почте.)"
+
+#: admin/FormSettings.php:208
+msgid ""
+"Used tabs: Task fields - main, Contact fields, Company fields - additional."
+msgstr ""
+"Используются вкладки: Поля задачи - основная, Поля контакта, Поля компании - "
+"дополнительно."
+
+#: admin/FormSettings.php:216 admin/FormSettings.php:217
+msgid "Contact"
+msgstr "Контакт"
+
+#: admin/FormSettings.php:218
+msgid "Used tab: Contact fields."
+msgstr "Используется вкладка: Поля контакта."
+
+#: admin/FormSettings.php:225 admin/FormSettings.php:227
+msgid "Company"
+msgstr "Компания"
+
+#: admin/FormSettings.php:228
+msgid "Used tab: Company fields."
+msgstr "Используется вкладка: Поля компании."
+
+#: admin/FormSettings.php:236
+msgid "Lead fields"
+msgstr "Поля лида"
+
+#: admin/FormSettings.php:241
+msgid "Deal fields"
+msgstr "Поля сделки"
+
+#: admin/FormSettings.php:246
+msgid "Task fields"
+msgstr "Поля задачи"
+
+#: admin/FormSettings.php:251
+msgid "Contact fields"
+msgstr "Поля контакта"
+
+#: admin/FormSettings.php:256
+msgid "Company fields"
+msgstr "Поля компании"
+
+#: admin/FormSettings.php:261
+msgid "Live feed entry message"
+msgstr "Сообщение в живой ленте записи"
+
+#: admin/FormSettings.php:270 admin/FormSettings.php:277
+#: admin/FormSettings.php:362 admin/FormSettings.php:369
+msgid "Create task"
+msgstr "Создать задачу"
+
+#: admin/FormSettings.php:285 admin/FormSettings.php:292
+msgid "Update an existing lead (search by phone)"
+msgstr "Обновлять существующий лид (поиск по телефону)"
+
+#: admin/FormSettings.php:300 admin/FormSettings.php:310
+msgid "Update an existing lead (search by mail)"
+msgstr "Обновлять существующий лид (поиск по почте)"
+
+#: admin/FormSettings.php:318 admin/FormSettings.php:328
+msgid "Link to existing contact (search by mail/phone)"
+msgstr "Связывать с существующим контактом (поиск по телефону / почте)"
+
+#: admin/FormSettings.php:336 admin/FormSettings.php:346
+#: admin/FormSettings.php:377 admin/FormSettings.php:387
+msgid "Send uploaded files"
+msgstr "Отправлять загруженные файлы"
+
+#: admin/FormSettings.php:403
+msgid ""
+"Automatically assign a responsible if there is an updated lead or "
+"createdlead / deal."
+msgstr ""
+"Автоматически назначать ответственного, если есть у обновляемого лида или "
+"создаваемого лида/сделки."
+
+#: admin/FormSettings.php:426
+msgid "Create checklist"
+msgstr "Добавить чек-лист"
+
+#: admin/FormSettings.php:432
+msgid "Checklist items"
+msgstr "Пункты чек-листа"
+
+#: admin/FormSettings.php:437
+msgid "List of elements separated by a semicolon \";\""
+msgstr "Список элементов, разделенных точкой с запятой \";\""
+
+#: admin/FormSettings.php:448
+msgid ""
+"Always create a new contact and create live feed entry message in all exists "
+"(search by phone and mail)"
+msgstr ""
+"Всегда создавать новый контакт и создавать комментарий в живой ленте для "
+"всех существующих контактов (поиск по телефону и почте)"
+
+#: admin/FormSettings.php:466
+msgid "Update an existing contact (search by phone and mail)"
+msgstr "Обновлять существующий контакт (поиск по телефону и почте)"
+
+#: admin/FormSettings.php:494 admin/FormSettings.php:500
+msgid "Message content"
+msgstr "Сообщение"
+
+#: admin/FormSettings/DealSettings.php:97
+#: admin/FormSettings/LeadSettings.php:136
+msgid ""
+"you can specify several, separated by commas, then the requests will be "
+"distributed sequentially"
+msgstr ""
+"вы можете указать несколько, через запятую, тогда обращения будут "
+"распределяться последовательно"
+
+#: admin/FormSettings/LeadSettings.php:22
+#: admin/FormSettings/LeadSettings.php:29
+msgid "Ignore fields on update exists entry"
+msgstr "Игнорировать поля при обновлении существующей записи"
+
+#: admin/FormSettings/LeadSettings.php:31
+msgid "Example:"
+msgstr "Пример:"
+
+#: admin/FormSettings/LeadSettings.php:33
+msgid ""
+"If you want some of the fields to be skipped and not changed when updating "
+"an existing lead, specify them with a comma."
+msgstr ""
+"Если вы хотите, чтобы некоторые поля были пропущены и не изменены при "
+"обновлении существующего лида, укажите их через запятую."
+
+#: admin/FormSettings/RenderFields.php:49
+#: admin/FormSettings/RenderFields.php:94
+#: admin/FormSettings/RenderFields.php:153
+msgid "Default value"
+msgstr "По умолчанию"
+
+#: admin/FormSettings/RenderFields.php:54
+#: admin/FormSettings/RenderFields.php:99
+msgid "Not chosen"
+msgstr "Не выбрано"
+
+#: admin/FormSettings/RenderFields.php:68
+#: admin/FormSettings/RenderFields.php:113
+#: admin/FormSettings/RenderFields.php:166
+msgid "Form value"
+msgstr "Значение из формы"
+
+#: admin/FormSettings/RenderFields.php:169
+msgid "Support values"
+msgstr "Поддерживаются"
+
+#: admin/FormSettings/RenderFields.php:208
+msgid "Default pipeline"
+msgstr "По умолчанию"
+
+#: admin/IntegrationSettingsPage.php:45
+msgid "Contact Form 7 - Bitrix24 CRM - Integration"
+msgstr "Contact Form 7 - Bitrix24 CRM - Integration"
+
+#: admin/IntegrationSettingsPage.php:47 includes/Helper.php:37
+msgid "Please verify the purchase code on the plugin settings page - "
+msgstr "Пожалуйста, укажите код покупки на странице настроек плагина - "
+
+#: admin/IntegrationSettingsPage.php:51
+msgid "open"
+msgstr "открыть"
+
+#: admin/PageParts/AuthorizePagePart.php:42
+msgid "Authorization"
+msgstr "Авторизация"
+
+#: admin/PageParts/AuthorizePagePart.php:52
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: admin/PageParts/AuthorizePagePart.php:77
+msgid "Inbound web hook"
+msgstr "Входящий веб-хук"
+
+#: admin/PageParts/AuthorizePagePart.php:91
+msgid ""
+"The following permissions are required: CRM, Tasks, Tasks extended, Chat and "
+"Notifications."
+msgstr ""
+"Требуются следующие права: CRM, Tasks, Tasks extended и Chat and "
+"Notifications."
+
+#: admin/PageParts/AuthorizePagePart.php:100
+msgid "Send type"
+msgstr "Тип отправки"
+
+#: admin/PageParts/AuthorizePagePart.php:117
+msgid "Immediately upon submitting the form"
+msgstr "Сразу при отправке формы"
+
+#: admin/PageParts/AuthorizePagePart.php:124
+msgid "Action Scheduler"
+msgstr ""
+
+#: admin/PageParts/AuthorizePagePart.php:129
+msgid "The number of registered form submit events pending"
+msgstr "Количество ожидающих зарегистрированных событий отправки формы"
+
+#: admin/PageParts/HeaderPagePart.php:15
+msgid "Integration settings"
+msgstr "Настройка интеграции"
+
+#: admin/PageParts/HeaderPagePart.php:17
+msgid ""
+"Formation of leads in Bitrix24 from the hits that users leave on your site, "
+"using the Contact Form 7 plugin."
+msgstr ""
+"Формирование лидов в Bitrix24 из обращений, которые оставляют пользователи "
+"на Вашем сайте, с помощью плагина Contact Form 7."
+
+#: admin/PageParts/HeaderPagePart.php:24 admin/PageParts/HeaderPagePart.php:26
+#: admin/PluginActionLinksFilter.php:45
+msgid "Documentation"
+msgstr "Документация"
+
+#: admin/PageParts/HeaderPagePart.php:34 admin/PageParts/HeaderPagePart.php:36
+msgid "Support"
+msgstr "Поддержка"
+
+#: admin/PageParts/HeaderPagePart.php:54
+msgid "Settings successfully updated."
+msgstr "Настройки успешно обновлены."
+
+#: admin/PageParts/HeaderPagePart.php:59 includes/Bitrix24.php:497
+#: includes/Bitrix24.php:525
+msgid "ERROR"
+msgstr "ОШИБКА"
+
+#: admin/PageParts/HeaderPagePart.php:60
+msgid "Web hook url is not valid."
+msgstr "Неверный url веб-хука."
+
+#: admin/PageParts/HeaderPagePart.php:65
+msgid "Fields cache updated successfully."
+msgstr "Кеш полей успешно обновлен."
+
+#: admin/PageParts/ReloadFieldsPagePart.php:32
+msgid "Reload fields data from CRM"
+msgstr "Перезагрузить данные полей из CRM"
+
+#: admin/PluginActionLinksFilter.php:34
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/PluginActionLinksFilter.php:40
+msgid ""
+"https://itgalaxy.company/software/wordpress-contact-form-7-bitrix24-crm-"
+"%d0%b8%d0%bd%d1%82%d0%b5%d0%b3%d1%80%d0%b0%d1%86%d0%b8%d1%8f/contact-form-7-"
+"bitrix24-crm-%d0%b8%d0%bd%d1%82%d0%b5%d0%b3%d1%80%d0%b0%d1%86%d0%b8%d1%8f-"
+"%d0%b8%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%86%d0%b8%d0%b8/"
+msgstr ""
+
+#: includes/Bitrix24.php:153
+msgid "New lead"
+msgstr "Новый лид"
+
+#: includes/Bitrix24.php:161 includes/Bitrix24.php:282
+#: includes/Bitrix24.php:390
+msgid "from the site"
+msgstr "с сайта"
+
+#: includes/Bitrix24.php:274
+msgid "New deal"
+msgstr "Новая сделка"
+
+#: includes/Bitrix24.php:378
+msgid "New task"
+msgstr "Новая задача"
+
+#: includes/Bitrix24.php:496 includes/Bitrix24.php:524
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: includes/Bitrix24.php:498
+msgid "Insufficient permissions. Check CRM settings."
+msgstr "Недостаточно прав. Проверьте настройки CRM. Обновите страницу."
+
+#: includes/Bitrix24.php:501 includes/Bitrix24.php:529
+msgid "An error occurred while verifying the connection to the Bitrix24 CRM."
+msgstr "Ошибка при проверке соединения с Bitrix24."
+
+#: includes/Bitrix24.php:526
+msgid "Response CRM is not valid. Please check web hook link."
+msgstr "Неверный ответ CRM. Проверьте веб-хук."
+
+#: includes/Bitrix24.php:931
+msgid "Uploaded files"
+msgstr "Загруженные файлы"
+
+#: includes/Bootstrap.php:84 includes/Bootstrap.php:162
+msgid "Contact Form 7 - Bitrix24 CRM"
+msgstr "Contact Form 7 - Bitrix24 CRM"
+
+#: includes/CrmFields.php:81
+msgid "Street, building"
+msgstr "Улица, дом, корпус, строение"
+
+#: includes/CrmFields.php:82
+msgid "Suite / Apartment"
+msgstr "Квартира / офис"
+
+#: includes/CrmFields.php:83
+msgid "City"
+msgstr "Город"
+
+#: includes/CrmFields.php:84
+msgid "Zip"
+msgstr "Почтовый индекс"
+
+#: includes/CrmFields.php:85
+msgid "Region"
+msgstr "Район"
+
+#: includes/CrmFields.php:86
+msgid "State / Province"
+msgstr "Область"
+
+#: includes/CrmFields.php:87
+msgid "Country"
+msgstr "Страна"
+
+#: includes/CrmFields.php:88
+msgid "Birth date"
+msgstr "Дата рождения"
+
+#: includes/CrmFields.php:89
+msgid "Payment details"
+msgstr "Банковские реквизиты"
+
+#: includes/CrmFields.php:90
+msgid "Industry"
+msgstr "Сфера деятельности"
+
+#: includes/CrmFields.php:91
+msgid "Employees"
+msgstr "Кол-во сотрудников"
+
+#: includes/CrmFields.php:92
+msgid "Annual income"
+msgstr "Годовой оборот"
+
+#: includes/CrmFields.php:93
+msgid "Company Name"
+msgstr "Название компании"
+
+#: includes/CrmFields.php:94
+msgid "Company type"
+msgstr "Тип компании"
+
+#: includes/CrmFields.php:95
+msgid "Visible to everyone"
+msgstr "Доступно всем"
+
+#: includes/CrmFields.php:96
+msgid "Title"
+msgstr "Название"
+
+#: includes/CrmFields.php:97
+msgid "Type"
+msgstr "Тип"
+
+#: includes/CrmFields.php:98
+msgid "Stage / Pipeline"
+msgstr "Стадия / Направление"
+
+#: includes/CrmFields.php:99
+msgid "Probability, %"
+msgstr "Вероятность,%"
+
+#: includes/CrmFields.php:100
+msgid "First name"
+msgstr "Имя"
+
+#: includes/CrmFields.php:101
+msgid "Honorific"
+msgstr "Обращение"
+
+#: includes/CrmFields.php:102
+msgid "Last name"
+msgstr "Фамилия"
+
+#: includes/CrmFields.php:103
+msgid "Middle name"
+msgstr "Отчество"
+
+#: includes/CrmFields.php:104
+msgid "Position"
+msgstr "Должность"
+
+#: includes/CrmFields.php:105
+msgid "Responsible user ID"
+msgstr "ID ответственного пользователя"
+
+#: includes/CrmFields.php:106
+msgid "Accomplice user ID"
+msgstr "ID соисполнителей"
+
+#: includes/CrmFields.php:107
+msgid "Auditor user ID"
+msgstr "ID наблюдателей"
+
+#: includes/CrmFields.php:108
+msgid "Comments"
+msgstr "Комментарий"
+
+#: includes/CrmFields.php:109
+msgid "Description"
+msgstr "Описание"
+
+#: includes/CrmFields.php:110
+msgid "Source Description"
+msgstr "Дополнительно об источнике"
+
+#: includes/CrmFields.php:111
+msgid "Status description"
+msgstr "Дополнительно о статусе"
+
+#: includes/CrmFields.php:112
+msgid "Opportunity"
+msgstr "Возможная сумма сделки"
+
+#: includes/CrmFields.php:113
+msgid "Currency"
+msgstr "Валюта"
+
+#: includes/CrmFields.php:114
+msgid "Product ID from CRM"
+msgstr "ID товара из CRM"
+
+#: includes/CrmFields.php:115
+msgid "Source"
+msgstr "Источник"
+
+#: includes/CrmFields.php:116
+msgid "Status"
+msgstr "Статус"
+
+#: includes/CrmFields.php:117
+msgid "Phone"
+msgstr "Телефон"
+
+#: includes/CrmFields.php:118
+msgid "Photo"
+msgstr "Фото"
+
+#: includes/CrmFields.php:119
+msgid "E-mail"
+msgstr "E-mail"
+
+#: includes/CrmFields.php:120
+msgid "Site"
+msgstr "Сайт"
+
+#: includes/CrmFields.php:121
+msgid "Tags"
+msgstr "Тэги"
+
+#: includes/CrmFields.php:122
+msgid "Deadline (use the date field type)"
+msgstr "Крайний срок (используйте с типом поля \"дата\")"
+
+#: includes/CrmFields.php:123
+msgid "ID workgroup"
+msgstr "ID группы"
+
+#: includes/CrmFields.php:124
+msgid "Responsible person can change deadline"
+msgstr "Разрешить ответственному менять сроки задачи"
+
+#: includes/CrmFields.php:125
+msgid "Approve task when completed"
+msgstr "Принять работу после завершения задачи"
+
+#: includes/CrmFields.php:126
+msgid "Task planned time"
+msgstr "Учет времени"
+
+#: includes/CrmFields.php:127
+msgid "Responsible"
+msgstr "Ответственный"
+
+#: includes/CrmFields.php:128
+msgid "Created by"
+msgstr "Постановщик"
+
+#: includes/CrmFields.php:129
+msgid "Priority"
+msgstr "Приоритет"
+
+#: includes/CrmFields.php:186
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/CrmFields.php:190
+msgid "High Priority"
+msgstr "Важная"

@@ -1,0 +1,471 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Contact Form 7 Styler\n"
+"POT-Creation-Date: 2022-12-26 15:41+0600\n"
+"PO-Revision-Date: 2022-12-26 15:41+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: bwdcf-contact-form.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: bwdcf-boots.php:54 page-settings/bwdcf-contact-form-manager.php:21
+#: widgets/bwdcf-contactform.php:57 widgets/bwdcf-contactform.php:65
+#: widgets/bwdcf-contactform.php:82
+msgid "Contact Form 7"
+msgstr ""
+
+#: bwdcf-contact-form.php:68 bwdcf-contact-form.php:83
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: bwdcf-contact-form.php:69 bwdcf-contact-form.php:84
+msgid "BWD Contact Form 7 Styler"
+msgstr ""
+
+#: bwdcf-contact-form.php:70
+msgid "Elementor"
+msgstr ""
+
+#: bwdcf-contact-form.php:74 bwdcf-contact-form.php:89
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: bwdcf-contact-form.php:85
+msgid "PHP"
+msgstr ""
+
+#: page-settings/bwdcf-contact-form-manager.php:32
+msgid "Settings"
+msgstr ""
+
+#: page-settings/bwdcf-contact-form-manager.php:40
+#: page-settings/bwdcf-contact-form-manager.php:42
+#: widgets/bwdcf-contactform.php:109
+msgid "Title"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: widgets/bwdcf-contactform.php:17
+msgid "Contact Form 7 Styler"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:65
+msgid " is missing. Please install/activate it."
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:72 widgets/bwdcf-contactform.php:88
+msgid "Choose Contact Form"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:74
+msgid "Select Form"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:98 widgets/bwdcf-contactform.php:542
+msgid "Form Title"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:100 widgets/bwdcf-contactform.php:127
+msgid "On"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:101 widgets/bwdcf-contactform.php:128
+msgid "Off"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:125 widgets/bwdcf-contactform.php:586
+msgid "Form Description"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:136
+msgid "Description"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:151
+msgid "Form Column"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:155
+msgid "Column One"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:156
+msgid "Column Two"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:157
+msgid "Coloumn Three"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:166
+msgid "Input Type Text Width"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:168 widgets/bwdcf-contactform.php:197
+#: widgets/bwdcf-contactform.php:226 widgets/bwdcf-contactform.php:255
+#: widgets/bwdcf-contactform.php:284 widgets/bwdcf-contactform.php:313
+#: widgets/bwdcf-contactform.php:342 widgets/bwdcf-contactform.php:371
+#: widgets/bwdcf-contactform.php:1519
+msgid "Show"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:169 widgets/bwdcf-contactform.php:198
+#: widgets/bwdcf-contactform.php:227 widgets/bwdcf-contactform.php:256
+#: widgets/bwdcf-contactform.php:285 widgets/bwdcf-contactform.php:314
+#: widgets/bwdcf-contactform.php:343 widgets/bwdcf-contactform.php:372
+#: widgets/bwdcf-contactform.php:1520
+msgid "Hide"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:177 widgets/bwdcf-contactform.php:206
+#: widgets/bwdcf-contactform.php:235 widgets/bwdcf-contactform.php:264
+#: widgets/bwdcf-contactform.php:293 widgets/bwdcf-contactform.php:322
+#: widgets/bwdcf-contactform.php:351 widgets/bwdcf-contactform.php:380
+#: widgets/bwdcf-contactform.php:738 widgets/bwdcf-contactform.php:1528
+msgid "Width"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:181 widgets/bwdcf-contactform.php:210
+#: widgets/bwdcf-contactform.php:239 widgets/bwdcf-contactform.php:268
+#: widgets/bwdcf-contactform.php:297 widgets/bwdcf-contactform.php:326
+#: widgets/bwdcf-contactform.php:355 widgets/bwdcf-contactform.php:384
+msgid "Default"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:182 widgets/bwdcf-contactform.php:211
+#: widgets/bwdcf-contactform.php:240 widgets/bwdcf-contactform.php:269
+#: widgets/bwdcf-contactform.php:298 widgets/bwdcf-contactform.php:327
+#: widgets/bwdcf-contactform.php:356 widgets/bwdcf-contactform.php:385
+msgid "Full Width"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:183 widgets/bwdcf-contactform.php:212
+#: widgets/bwdcf-contactform.php:241 widgets/bwdcf-contactform.php:270
+#: widgets/bwdcf-contactform.php:299 widgets/bwdcf-contactform.php:328
+#: widgets/bwdcf-contactform.php:357 widgets/bwdcf-contactform.php:386
+msgid "Half Width"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:184 widgets/bwdcf-contactform.php:213
+#: widgets/bwdcf-contactform.php:242 widgets/bwdcf-contactform.php:271
+#: widgets/bwdcf-contactform.php:300 widgets/bwdcf-contactform.php:329
+#: widgets/bwdcf-contactform.php:358 widgets/bwdcf-contactform.php:387
+msgid "One Third"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:195
+msgid "Input Type Email Width"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:224
+msgid "Input Type URL Width"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:253
+msgid "Input Type TEL Width"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:282
+msgid "Input Type Number Width"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:311
+msgid "Input Type Date Width"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:340
+msgid "Input Type Select Width"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:369
+msgid "Input Type Textarea Width"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:400
+msgid "Form Container"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:415
+msgid "Form Alignment"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:419 widgets/bwdcf-contactform.php:521
+#: widgets/bwdcf-contactform.php:1444
+msgid "Left"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:423 widgets/bwdcf-contactform.php:525
+#: widgets/bwdcf-contactform.php:1448
+msgid "Center"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:427 widgets/bwdcf-contactform.php:529
+#: widgets/bwdcf-contactform.php:1452
+msgid "Right"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:438
+msgid "Form Width"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:459 widgets/bwdcf-contactform.php:726
+#: widgets/bwdcf-contactform.php:848 widgets/bwdcf-contactform.php:1408
+#: widgets/bwdcf-contactform.php:1495
+msgid "Padding"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:470 widgets/bwdcf-contactform.php:575
+#: widgets/bwdcf-contactform.php:612 widgets/bwdcf-contactform.php:1246
+#: widgets/bwdcf-contactform.php:1336 widgets/bwdcf-contactform.php:1420
+msgid "Margin"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:488 widgets/bwdcf-contactform.php:932
+#: widgets/bwdcf-contactform.php:987 widgets/bwdcf-contactform.php:1042
+#: widgets/bwdcf-contactform.php:1396 widgets/bwdcf-contactform.php:1484
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:510
+msgid "Title & Description"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:517 widgets/bwdcf-contactform.php:1440
+msgid "Alignment"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:557 widgets/bwdcf-contactform.php:601
+#: widgets/bwdcf-contactform.php:642 widgets/bwdcf-contactform.php:1096
+#: widgets/bwdcf-contactform.php:1366 widgets/bwdcf-contactform.php:1595
+#: widgets/bwdcf-contactform.php:1638
+msgid "Color"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:625
+msgid "Label"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:634 widgets/bwdcf-contactform.php:868
+#: widgets/bwdcf-contactform.php:1088 widgets/bwdcf-contactform.php:1359
+#: widgets/bwdcf-contactform.php:1469
+msgid "Typography"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:653
+msgid "Top Spacing"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:664
+msgid "Bottom Spacing"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:678
+msgid "Input"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:685
+msgid "Field Style"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:689
+msgid "Box"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:690
+msgid "Underline"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:698
+msgid "Underline Width"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:712
+msgid "Underline Color"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:766 widgets/bwdcf-contactform.php:821
+#: widgets/bwdcf-contactform.php:1557
+msgid "Height"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:790
+msgid "Margin Bottom"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:813
+msgid "Textarea"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:859
+msgid "Select Option"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:875
+msgid "Option Color"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:885
+msgid "Option Background Color"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:905 widgets/bwdcf-contactform.php:1589
+msgid "Normal"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:913 widgets/bwdcf-contactform.php:975
+#: widgets/bwdcf-contactform.php:1030 widgets/bwdcf-contactform.php:1378
+#: widgets/bwdcf-contactform.php:1607 widgets/bwdcf-contactform.php:1651
+msgid "Background"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:921
+msgid "Cursor Color"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:946 widgets/bwdcf-contactform.php:1001
+#: widgets/bwdcf-contactform.php:1056 widgets/bwdcf-contactform.php:1319
+#: widgets/bwdcf-contactform.php:1388 widgets/bwdcf-contactform.php:1477
+#: widgets/bwdcf-contactform.php:1673
+msgid "Border"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:955 widgets/bwdcf-contactform.php:1010
+#: widgets/bwdcf-contactform.php:1065 widgets/bwdcf-contactform.php:1616
+#: widgets/bwdcf-contactform.php:1664
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:967 widgets/bwdcf-contactform.php:1631
+msgid "Hover"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1022
+msgid "Focus"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1078
+msgid "Input Default Value"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1110
+msgid "Placeholder"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1117
+msgid "Font Size"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1147
+msgid "Placeholder Color"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1168
+msgid "Radio Button"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1175 widgets/bwdcf-contactform.php:1268
+msgid "Layout"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1179 widgets/bwdcf-contactform.php:1272
+msgid "Inline"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1180 widgets/bwdcf-contactform.php:1273
+msgid "Vertical "
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1188 widgets/bwdcf-contactform.php:1281
+msgid "Size"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1198
+msgid "Inner Checked Size"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1216
+msgid "Radio Button Color"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1226
+msgid "Radio Checked Color"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1236 widgets/bwdcf-contactform.php:1326
+msgid "Label Spacing"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1261
+msgid "Checkbox"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1291
+msgid "Inner Arrow Size"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1308
+msgid "Arrow Color"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1351
+msgid "File Upload"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1433
+msgid "Submit Button"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1456
+msgid "Justified"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1506
+msgid "Margin Top"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1517
+msgid "Use Height Width"
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1695
+msgid ""
+"Contact Form 7 plugin is missing in your site. Please install/activate the "
+"plugin."
+msgstr ""
+
+#: widgets/bwdcf-contactform.php:1716
+msgid "Please select a form."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://bestwpdeveloper.com/contact-form7/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"BWD Contact Form 7 Styler is an Elementor plugin that customizes all input "
+"fields style of contact form 7."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Best WP Developer"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://bestwpdeveloper.com/"
+msgstr ""
